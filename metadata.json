@@ -1,0 +1,5 @@
+{
+  "name": "UPI Payment Dashboard",
+  "description": "A modern, responsive UPI Payment Dashboard to simulate transactions, view history, and manage user profiles. Features include QR code payments, transaction history, and light/dark modes.",
+  "requestFramePermissions": []
+}
